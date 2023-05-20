@@ -20,6 +20,7 @@ dependencies:
   vector_tile_renderer:
     git:
       url: https://github.com/harsh24/dart-vector-tile-renderer.git
+      ref: d9b2a542a7b1998b551eabb4142414390ef6bfe3
     #path: ../vector_tile_renderer
   async: ^2.8.2
   executor_lib:

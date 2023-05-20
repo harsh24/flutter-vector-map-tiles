@@ -583,7 +583,7 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
+      ref: d9b2a542a7b1998b551eabb4142414390ef6bfe3
       resolved-ref: d9b2a542a7b1998b551eabb4142414390ef6bfe3
       url: "https://github.com/harsh24/dart-vector-tile-renderer.git"
     source: git
